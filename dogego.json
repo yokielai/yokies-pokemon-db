@@ -1,0 +1,22 @@
+{
+  "name": "dogego",
+  "weight": "420",
+  "abilities": [
+      {
+          "slot": 3,
+          "is_hidden": true,
+          "ability": {
+              "url": "https://pokeapi.co/api/v2/ability/34/",
+              "name": "chlorophyll"
+          }
+      },
+      {
+          "slot": 4,
+          "is_hidden": true,
+          "ability": {
+              "url": "https://pokeapi.co/api/v2/ability/34/",
+              "name": "wow"
+          }
+      }
+  ]
+}
